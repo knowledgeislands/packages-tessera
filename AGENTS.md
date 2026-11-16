@@ -23,7 +23,7 @@
 - Web components exist only for elements both surfaces use. Each exports its stylesheet as a string so consumers' density and contrast tests can read it. Tags begin `tessera-`.
 - British English throughout. No i18n in V1.
 - Treat generated art as unlicensed until the art-licensing decision is recorded.
-- Preserve unrelated dirty work, stage only explicitly owned paths, and do not push, publish or release without separate authority.
+- Commits follow `ki-git`; do not push, publish or release without separate authority.
 
 ## Changing and releasing
 
