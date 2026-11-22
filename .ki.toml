@@ -107,9 +107,3 @@ MAP = "Hex map engine"
 ELE = "Web components"
 ART = "Art direction and production"
 OBS = "Observatory app design"
-
-# -----------------------------------------------------------------------------
-# Relationships
-# -----------------------------------------------------------------------------
-
-[skills.ki-trades]
