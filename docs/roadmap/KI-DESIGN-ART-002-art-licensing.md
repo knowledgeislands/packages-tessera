@@ -12,7 +12,7 @@ blocks: []
 blocked_by: []
 baseline_ref: null
 created_at: 2026-10-18T03:35:00Z
-updated_at: 2026-10-27T02:35:00Z
+updated_at: 2026-11-22T17:58:44Z
 ---
 
 # Art-licensing decision
@@ -48,7 +48,7 @@ A decision record exists, and the README's licence section and the briefs follow
 
 ## Dependencies / blocks
 
-Depends on nothing. It blocked KI-DESIGN-TIL-002, the Ancient tile set, until 27 October 2026, when the roadmap sweep moved the tile set to [the ideas list](_IDEAS.md); the dependency returns with it. [KI-DESIGN-ART-001](https://github.com/knowledgeislands/ki-design/blob/b7d3467c1613a0ebfec2fa6735d9b690e35225aa/docs/roadmap/KI-DESIGN-ART-001-picture-of-arcadia.md), the picture of Arcadia, is done.
+Depends on nothing. It blocked KI-DESIGN-TIL-002, the Ancient tile set, until 27 October 2026, when the roadmap sweep moved the tile set to the ideas list, since moved to [Harbour's ideas area](https://github.com/krisb/ki-cairn-harbour/blob/main/knowledge/maturation/ideas/knowledge-islands/packages-tessera/ancient-tile-set.md); the dependency returns with it. [KI-DESIGN-ART-001](https://github.com/knowledgeislands/ki-design/blob/b7d3467c1613a0ebfec2fa6735d9b690e35225aa/docs/roadmap/KI-DESIGN-ART-001-picture-of-arcadia.md), the picture of Arcadia, is done.
 
 ## Documentation impact
 
