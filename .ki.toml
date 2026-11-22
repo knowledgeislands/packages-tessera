@@ -33,8 +33,6 @@ license = "MIT"
 # Repository shape
 # -----------------------------------------------------------------------------
 
-[skills.ki-repo-project]
-
 # A package repository: consumers vendor packages/<package>/ under a lock. Tessera
 # vendors each layer on its own (ELEMENTS-MULTI), so every packages/tessera*/
 # folder is a vendored tree; `package` names the web components, the rest follow
