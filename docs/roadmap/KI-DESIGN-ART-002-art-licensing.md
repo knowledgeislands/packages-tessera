@@ -6,13 +6,14 @@ kind: deliver
 purpose: capability
 component: art
 size: s
+assignee: owner
 horizon: now
 status: draft
 blocks: []
 blocked_by: []
 baseline_ref: null
 created_at: 2026-10-18T03:35:00Z
-updated_at: 2026-11-22T17:58:44Z
+updated_at: 2026-11-23T03:30:00Z
 ---
 
 # Art-licensing decision
