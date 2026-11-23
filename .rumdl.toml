@@ -54,7 +54,3 @@ style = "underscore"
 
 [MD050]
 style = "asterisk"
-
-# MDX opens with its imports and a <Meta> block, so its first line cannot be the heading.
-[per-file-ignores]
-"**/*.mdx" = ["MD041"]
