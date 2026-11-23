@@ -175,7 +175,7 @@ The labels were Canon and Decided before 18 October 2026. The data keys are `off
 | What | Where |
 | --- | --- |
 | Briefs for art and tiles, the prompt library, glyph briefs | [docs/briefs/](docs/briefs/README.md) |
-| Decision records, one per decision | [docs/decisions/](docs/decisions/README.md) |
+| Decision records, one per decision | [docs/decisions/](docs/decisions/_index.md) |
 | Open questions, with recommendations (two, on 19 October) | [docs/OPEN.md](docs/OPEN.md) |
 | Review boards and the Observatory design | [docs/design-review/](docs/design-review/README.md) |
 | Prose canon: Visual Style, Symbol Library, Isometric Tiles, Logo | `ki-principal/Pillars/Aesthetics` |

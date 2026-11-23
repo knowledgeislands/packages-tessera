@@ -81,7 +81,7 @@ On 18 October 2026 the single-file DESIGN.md (about 17,400 words, sections 1–1
 | 16.3 Versioning | [governance.md](governance.md#versioning) |
 | 16.4 How designs are judged | [governance.md](governance.md#how-designs-are-judged) |
 | 16.5 Open questions | [docs/OPEN.md](../OPEN.md) |
-| 16.5 Decided items | One record each in [docs/decisions/](../decisions/README.md), GDR-KI-DESIGN-003 to 017 |
+| 16.5 Decided items | One record each in [docs/decisions/](../decisions/_index.md), GDR-KI-DESIGN-003 to 017 |
 | Appendix A: Do / Don't | [DESIGN.md](../../DESIGN.md#do-and-dont) |
 | Appendix B: Glossary | [glossary.md](glossary.md) |
 

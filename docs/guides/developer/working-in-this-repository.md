@@ -33,5 +33,5 @@ CI runs `ki repo audit --repo .` and then `bun run test`. Run the audit locally 
 ## Where a change belongs
 
 - Meaning — what a symbol, zone or concept stands for — changes in Knowledge Islands Principal through its Enactment Process first. Only then does `packages/tessera-symbols` mark it canon here.
-- Values and drawings — token values, glyphs, tile manifests and component behaviour — change here, with tests, and consumers take a tagged release by re-vendoring each package they use ([AGENTS.md](../../../AGENTS.md#changing-and-releasing)).
+- Values and drawings — token values, glyphs, tile manifests and component behaviour — change here, with tests, and consumers take a tagged release by re-vendoring each package they use.
 - Every colour role keeps its contrast floor in light and night; the tokens package tests fail a change that drops a pair below it.
