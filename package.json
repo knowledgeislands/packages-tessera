@@ -1,19 +1,19 @@
 {
   "name": "packages-tessera",
-  "description": "Tessera, the Knowledge Islands design system: tokens, glyphs, the symbol library, tile sets, the hex map engine and web components, each a package a site copies and locks on its own.",
+  "description": "Tessera, the Knowledge Islands design system: tokens, glyphs, symbol library, tile sets, hex map engine and web components, each a package consumers vendor and lock on their own.",
   "version": "0.2.0",
   "author": "kris@kris.me.uk",
   "devDependencies": {
-    "@biomejs/biome": "2.6.3",
+    "@biomejs/biome": "2.6.6",
     "@commitlint/cli": "^21.2.4",
     "@commitlint/config-conventional": "^21.2.4",
     "@custom-elements-manifest/analyzer": "0.11.0",
     "@types/bun": "^1.4.4",
-    "@types/node": "^26.6.5",
-    "dependency-cruiser": "^18.7.0",
-    "knip": "^6.43.0",
+    "@types/node": "^26.6.6",
+    "dependency-cruiser": "^18.7.2",
+    "knip": "^6.44.2",
     "lint-staged": "^17.6.0",
-    "rumdl": "^0.3.0",
+    "rumdl": "^0.3.2",
     "syncpack": "^15.3.3",
     "turbo": "^2.11.10",
     "typescript": "^7.0.2"
@@ -39,7 +39,7 @@
       "rumdl check"
     ]
   },
-  "packageManager": "bun@1.4.3",
+  "packageManager": "bun@1.4.4",
   "private": true,
   "repository": {
     "type": "git",
