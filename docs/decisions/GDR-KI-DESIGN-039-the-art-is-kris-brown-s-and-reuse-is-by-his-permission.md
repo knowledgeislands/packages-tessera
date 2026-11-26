@@ -37,15 +37,16 @@ Neither page settles whether copyright subsists in a given image; that is a ques
 - **What it covers:** the reference images in `docs/briefs/references/`, the generated candidates, studies and derivatives under `+/art/`, and art generated from the briefs from now on.
 - **The licence:** the [MIT License](../../LICENSE) covers the code and documentation only. The art is all rights reserved: reuse is by Kris Brown's permission. This default is this record's reading of his decision, not wording he chose, and it holds until he says otherwise; he may change it at any time, and this record is then updated in place.
 - **The generator terms** are as read above: OpenAI assigns its interest, if any, in the output to the user.
-- **The style:** the direction is Kris's own. Prompts go on naming no artist, studio or game. The named references above are points to review; this record does not change the briefs.
+- **The style:** the direction is Kris's own. Prompts go on naming no artist, studio or game.
+- **The named references stay as written** (Kris, 26 November 2026). "Ghibli-like" and "Age of Empires-esque" describe a lineage, the long tradition of isometric and painterly games and films, Ultima among many others, which every style borrows from, as rock borrows from the blues without copying its riffs. They name where the style comes from, not a work to copy, and the direction is Kris's own. The briefs are not changed.
+- **The manifests say so:** a tile set's manifest carries `"licence": "LicenseRef-KI-All-Rights-Reserved"`, an SPDX `LicenseRef-` identifier for terms SPDX does not list, in place of `UNLICENSED` (Kris, 26 November 2026).
 
 ## Consequences
 
 - **Ends the interim rule of GDR-KI-DESIGN-035.** Its style rules stand: the style is described in our own words, and studio names stay out of prompts.
-- **Aligned with this record:** the README's licence section, the briefs README and the briefs' notes, `AGENTS.md`, `DESIGN.md`'s hard rules, the illustration spec and `OPEN.md`, where the art-ownership question is answered.
-- **Manifests keep `"licence": "UNLICENSED"`.** In the package-manager sense the value means no rights are granted to others, which matches all rights reserved.
-- **Left as written:** the dated `NOTES.md` files under `+/art/`, the dated design brief and the earlier records that say "until the art-licensing decision is recorded"; that condition is now met. The `tessera-tiles` README's matching line follows at the next package change.
-- **To review with Kris:** the "Ghibli-like" and "Age of Empires-esque" references in the briefs' prose.
+- **Aligned with this record:** the README's licence section, the briefs README and the briefs' notes, `AGENTS.md`, `DESIGN.md`'s hard rules, the illustration spec, `OPEN.md`, where the art-ownership question is answered, and, in Tessera 0.3.1, the `tessera-tiles` README and the Modern set's manifest.
+- **Manifests change from `"licence": "UNLICENSED"`**, which read as no licence decided, to `LicenseRef-KI-All-Rights-Reserved`. The Ancient set's manifest takes the same value when it is written, where the batch briefs still say `UNLICENSED`.
+- **Left as written:** the dated `NOTES.md` files under `+/art/`, the briefs, and the earlier records that say "until the art-licensing decision is recorded"; that condition is now met.
 
 ## References
 
