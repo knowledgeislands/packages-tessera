@@ -2,6 +2,10 @@
 
 Releases of Tessera, the Knowledge Islands design system, in `packages-tessera`. Every package is released at the same version and tagged `v<version>`; a consumer re-vendors each package it uses. A breaking change is marked **Breaking**, with what a consumer must change.
 
+## 0.3.1
+
+- `tessera-tiles`: the art in the tile sets is Kris Brown's, as part of Knowledge Islands, all rights reserved and reused only with his permission ([GDR-KI-DESIGN-039](docs/decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md)). The Modern set's manifest carries `"licence": "LicenseRef-KI-All-Rights-Reserved"` in place of `UNLICENSED`, the README says so where it called the art unlicensed, and the contract documents the `licence` field. No other package changes; a consumer that reads `licence` takes the new value.
+
 ## 0.3.0
 
 The first release as Tessera, in the package repository shape. Before it the repository was `ki-design`, its packages were installed under the `@knowledgeislands/` scope, and the last versions were tokens, icons, symbols and tiles 0.2.0, and hexmap and elements 0.1.0.
