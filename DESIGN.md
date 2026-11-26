@@ -84,7 +84,7 @@ The full world is in [world.md](docs/spec/world.md); every symbol is in [meaning
 12. **Every map has a text equivalent** rendered in the page, and is keyboard-operable along axial neighbours.
 13. **No emoji, no hype, British English.** Sentence case; dates `YYYY-MM-DD`; times `YYYY-MM-DD HH:MM`.
 14. **Never draw** humanoid robots, neon, cyberpunk, crystals, magic glow, monsters, weapons, game UI or scores, text baked into art, or walls and towers around the Capital ([illustration](docs/spec/illustration.md#never-draw)).
-15. **Generated art is unlicensed** until the art-licensing decision is recorded.
+15. **The art is Kris Brown's:** reference images and generated art are all rights reserved, outside the MIT licence, and reused only with his permission ([GDR-KI-DESIGN-039](docs/decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md)).
 
 ## Status vocabulary
 

@@ -7,7 +7,7 @@ Batch 1b is a small second run of the Ancient tile set: six tiles. It tests two 
 
 It also repaints two structures. The **Council Hall** gets no dome, so it stops reading as a second Library. The **Causeway** gets a straight-on camera.
 
-Status: **ready to run, not yet run.** As with batch 1, the art is unlicensed until KI-DESIGN-ART-002 is decided ([GDR-KI-DESIGN-035](../decisions/GDR-KI-DESIGN-035-art-is-unlicensed-until-its-licensing-is-recorded.md)). These are candidates for review.
+Status: **ready to run, not yet run.** As with batch 1, the art is Kris Brown's, all rights reserved ([GDR-KI-DESIGN-039](../decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md)). These are candidates for review.
 
 ## What the batch paints
 
@@ -81,7 +81,7 @@ STEP 5: SAVE UNALTERED. Find today's date with `date +%F` and create +/art/<date
 
 STEP 6: WRITE NOTES.md IN THAT FOLDER BEFORE YOU COMMIT. Batch 1 skipped this; do not. The first line is the heading "# Ancient tiles, batch 1b". Then record:
 - the date, the tool and image model, and that arcadia.png and the matching template were attached to every generation;
-- the sentence: "This art is unlicensed until KI-DESIGN-ART-002 is decided. These are candidates for review, not the Ancient set.";
+- the sentence: "This art is Kris Brown's, all rights reserved (GDR-KI-DESIGN-039). These are candidates for review, not the Ancient set.";
 - for each file, under a "## <file name>" heading: the exact prompt (verbatim, in a fenced text block), the pixel size you measured, whether the background is truly transparent, the number of attempts, and every deviation you can see from the template's camera and placement, from the light, and from the subject;
 - a short closing section on what did not work.
 
@@ -104,4 +104,4 @@ The design thread re-projects the six through `_hexify.py`, puts them in the isl
 **The gate.** Kit's rule (19 October 2026): if good hex tiles can't be had this way, the painted set goes back to simpler geometry. Batch 1b decides it.
 
 - **Template method and dusk light both hold:** the rest of the set is repainted the same way from the [prompt pack](ancient-prompt-pack.md).
-- **They don't hold:** the painted Ancient style keeps its natural square isometric tile. The map, the chart and the Modern set stay hex, since they are drawn in code and cost nothing either way. The painted style then appears as square tiles or as rectangular vignettes, not on the hex map. Then the cut tiles are written into `packages/tessera-tiles/sets/ancient/manifest.json`, with `licence: "UNLICENSED"` until ART-002 is decided.
+- **They don't hold:** the painted Ancient style keeps its natural square isometric tile. The map, the chart and the Modern set stay hex, since they are drawn in code and cost nothing either way. The painted style then appears as square tiles or as rectangular vignettes, not on the hex map. Then the cut tiles are written into `packages/tessera-tiles/sets/ancient/manifest.json`, with `licence: "UNLICENSED"`, meaning no rights granted ([GDR-KI-DESIGN-039](../decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md)).

@@ -67,4 +67,4 @@ All three are private until shared from their Share menus.
 
 ## Licence
 
-The code and documentation in this repository are released under the [MIT License](LICENSE). AI-generated reference images and art are tracked separately: until the art-licensing decision ([KI-DESIGN-ART-002](docs/roadmap/KI-DESIGN-ART-002-art-licensing.md)) is recorded, treat them as unlicensed.
+The code and documentation in this repository are released under the [MIT License](LICENSE). The reference images and AI-generated art are not: they are owned by Kris Brown as part of Knowledge Islands, all rights reserved, and may be reused only with his permission ([GDR-KI-DESIGN-039](docs/decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md)). That default holds until he says otherwise.

@@ -42,7 +42,8 @@ Decision records for Knowledge Islands Design, following the Knowledge Islands d
 36. [GDR-KI-DESIGN-036](GDR-KI-DESIGN-036-the-ki-design-history-stays-as-it-is.md) - the ki-design history stays as it is.
 37. [GDR-KI-DESIGN-037](GDR-KI-DESIGN-037-the-banner-emoji-stay-the-written-notation-line-glyphs-may-be-a-rendered-form.md) - the banner emoji stay the written notation; line glyphs may be a rendered form.
 38. [GDR-KI-DESIGN-038](GDR-KI-DESIGN-038-ancient-is-the-only-isometric-tile-set-the-flat-chart-keeps-its-engraved-treatment.md) - Ancient is the only isometric tile set; the flat chart keeps its engraved treatment.
+39. [GDR-KI-DESIGN-039](GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md) - the art is Kris Brown's, and reuse is by his permission.
 
 ## Open questions
 
-[OPEN.md](OPEN.md) lists every question still open, with its recommendation and how to draw meanwhile. Records 018 to 036 answer the questions it held on 18 October, and 037 the banner-glyph question of 19 October.
+[OPEN.md](OPEN.md) lists every question still open, with its recommendation and how to draw meanwhile. Records 018 to 036 answer the questions it held on 18 October, 037 the banner-glyph question of 19 October, and 039 the art-ownership question on 26 November.

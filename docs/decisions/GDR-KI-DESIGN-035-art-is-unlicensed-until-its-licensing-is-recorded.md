@@ -22,8 +22,9 @@ Who owns AI-generated art, and under which generator terms, is not yet known; th
 
 ## Consequences
 
-- Manifests of generated sets carry `"licence": "UNLICENSED"` until ART-002 is recorded.
-- Who owns the art, and where the further reference images are, stay in OPEN.md.
+- Manifests of generated sets carry `"licence": "UNLICENSED"`. Since [GDR-KI-DESIGN-039](GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md) the value means no rights are granted to others.
+- Where the further reference images are stays in OPEN.md.
+- **The interim rule ended on 26 November 2026**, when ART-002 was recorded as GDR-KI-DESIGN-039: the art is Kris Brown's, all rights reserved. The style rules above stand.
 
 ## References
 

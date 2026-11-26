@@ -22,7 +22,7 @@
 - Animation follows the clock: 12 fps, a 48-frame master cycle, loops of 4, 6, 8, 12, 16, 24 or 48 frames; frame 0 is the still image.
 - Web components exist only for elements both surfaces use. Each exports its stylesheet as a string so consumers' density and contrast tests can read it. Tags begin `tessera-`.
 - British English throughout. No i18n in V1.
-- Treat generated art as unlicensed until the art-licensing decision is recorded.
+- The reference images and generated art are Kris Brown's, all rights reserved, and outside the MIT licence ([GDR-KI-DESIGN-039](docs/decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md)); keep artist, studio and game names out of prompts.
 - Commits follow `ki-git`; do not push, publish or release without separate authority.
 
 ## Changing and releasing

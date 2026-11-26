@@ -57,7 +57,7 @@ All are private to Kit's account and show in his artifacts list.
   - **Tokens 0.2.0:** `color.fog`, `color.tile.water` (was `color.terrain.ocean`, now an alias), `space-96`, `radius-round`, UI easing and durations; token font stacks authoritative (023).
   - **Glyphs stay single-colour;** consumers apply brass (024).
   - **Night on the site:** follow the OS, plus a small manual toggle (025).
-  - The roundel is the logo (026); Observatory until Gate B (028); Arcadia from a dated snapshot (031); no-JS Living Map (032); ten instruments by convergence (033); read-only over the tailnet (034); art unlicensed until ART-002 (035); the git history stays (036).
+  - The roundel is the logo (026); Observatory until Gate B (028); Arcadia from a dated snapshot (031); no-JS Living Map (032); ten instruments by convergence (033); read-only over the tailnet (034); art unlicensed until ART-002 (035); the git history stays (036). Since then: the art is Kris Brown's, all rights reserved (039, 26 November 2026).
 - How Kit works:
   - Push straight to main, with no pull requests.
   - Give ChatGPT prompts as copy-paste code blocks that point at files in the repo; never ask Kit to upload images.
@@ -68,7 +68,7 @@ All are private to Kit's account and show in his artifacts list.
 
 Only two items remain in `docs/OPEN.md`, and both wait on facts rather than a choice:
 
-1. **Art ownership** and the generator terms (KI-DESIGN-ART-002). Until then all art is unlicensed (GDR-KI-DESIGN-035).
+1. **Art ownership** and the generator terms (KI-DESIGN-ART-002). Answered on 26 November 2026: the art is Kris Brown's, all rights reserved ([GDR-KI-DESIGN-039](../decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md)).
 2. **Where the further isometric references are.** They are to be filed into `ki-principal`'s `Pillars/Aesthetics/Isometric Tiles` as references once Kit points to them.
 
 ## Kit's to-dos on the Mac

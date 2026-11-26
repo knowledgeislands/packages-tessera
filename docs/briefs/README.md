@@ -34,4 +34,4 @@ Kit's chosen art direction, in [references/](references/):
 
 Canonical asset sheets stay in Knowledge Islands Principal: `Pillars/Aesthetics/Isometric Tiles/` (two painted square-grid tile sheets), `Pillars/Aesthetics/Symbol Library/` (reference sheet and illustrations) and `Pillars/Aesthetics/Logo/`.
 
-Treat the reference images and any art generated from these briefs as unlicensed until the art-licensing decision is recorded.
+The reference images and any art generated from these briefs are owned by Kris Brown as part of Knowledge Islands. They are all rights reserved, outside the repository's MIT licence, and reused only with his permission ([GDR-KI-DESIGN-039](../decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md)).

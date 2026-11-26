@@ -6,7 +6,7 @@ One prompt per tile in the tile-set contract, ready to paste into an image gener
 
 The first run is packaged as one copy-paste instruction for the ChatGPT or Codex app: [Ancient tiles, batch 1](ancient-batch-1.md) paints the 12 terrains and the hero structures with the exact geometry, sizes and record-keeping. This pack holds the per-tile prompts for the rest of the set.
 
-Shared rules, already inside every prompt: pointy-top hexagonal tile in 2:1 dimetric projection, light from the top-left, a 48-pixel stratified rock plinth, a transparent background for cutting out, no text, no people in close-up, no creatures, no crystals, no magic glow. Generated art is unlicensed until KI-DESIGN-ART-002 is decided, and no prompt names a studio, artist or game.
+Shared rules, already inside every prompt: pointy-top hexagonal tile in 2:1 dimetric projection, light from the top-left, a 48-pixel stratified rock plinth, a transparent background for cutting out, no text, no people in close-up, no creatures, no crystals, no magic glow. Generated art is Kris Brown's, all rights reserved ([GDR-KI-DESIGN-039](../decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md)), and no prompt names a studio, artist or game.
 
 ## Terrain (12)
 

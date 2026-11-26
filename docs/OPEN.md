@@ -2,17 +2,9 @@
 
 The design questions still open after 20 October 2026, each with its recommendation and how to draw meanwhile. They are not decision records: when Kit answers one, the answer becomes a record in this folder (see the [index](decisions/_index.md)) and the entry leaves this list. A question about meaning is also carried into `ki-principal`.
 
-On 19 October 2026 Kit answered every question listed on 18 October; the answers are GDR-KI-DESIGN-018 to 036. What remains needs facts that are not yet in hand rather than a choice. The banner-glyph question the Observatory's design hand-off raised on 19 October 2026 was answered on 20 October as [GDR-KI-DESIGN-037](decisions/GDR-KI-DESIGN-037-the-banner-emoji-stay-the-written-notation-line-glyphs-may-be-a-rendered-form.md).
+On 19 October 2026 Kit answered every question listed on 18 October; the answers are GDR-KI-DESIGN-018 to 036. What remains needs facts that are not yet in hand rather than a choice. The banner-glyph question the Observatory's design hand-off raised on 19 October 2026 was answered on 20 October as [GDR-KI-DESIGN-037](decisions/GDR-KI-DESIGN-037-the-banner-emoji-stay-the-written-notation-line-glyphs-may-be-a-rendered-form.md). The art-ownership question was answered on 26 November 2026 as [GDR-KI-DESIGN-039](decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md).
 
 ## Design questions
-
-### Art ownership
-
-Who owns AI-generated art, and under which generator terms (KI-DESIGN-ART-002)?
-
-- **Status:** the policy until then is recorded in [GDR-KI-DESIGN-035](decisions/GDR-KI-DESIGN-035-art-is-unlicensed-until-its-licensing-is-recorded.md); the answer itself is owed by ART-002.
-- **Recommendation:** record the answer in ART-002 once the generator terms are read, then update GDR-KI-DESIGN-035 and the set manifests' `licence`.
-- **Meanwhile:** treat references and generated art as unlicensed.
 
 ### Where the further references are
 

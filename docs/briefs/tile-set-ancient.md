@@ -115,7 +115,7 @@ Geometry and placement: <DIRECTLY PAINTED HEX GEOMETRY FROM THE ACTIVE PRODUCTIO
 No text, lettering, numbers, logos, close-up people, creatures, animals, crystals, magic glow, weapons or fortifications.
 ```
 
-Record the completed prompt verbatim with the references, tool, exposed model identifier if any, measured dimensions, transparency, attempts and deviations. Keep original generated candidates unaltered; perform any approved cutting or normalisation as a separate recorded production step. Generated art remains unlicensed until KI-DESIGN-ART-002 is decided.
+Record the completed prompt verbatim with the references, tool, exposed model identifier if any, measured dimensions, transparency, attempts and deviations. Keep original generated candidates unaltered; perform any approved cutting or normalisation as a separate recorded production step. Generated art is Kris Brown's, all rights reserved ([GDR-KI-DESIGN-039](../decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md)).
 
 ## Judged by
 

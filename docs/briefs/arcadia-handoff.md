@@ -51,7 +51,7 @@ All three PNGs are **1672 × 941 pixels**, the native files returned by the buil
 
 Retain the selected image's atmosphere when resolving these limitations. The [exact generation prompts](arcadia-generation-prompts.md) are preserved for follow-up work; a prompt's requested feature or dimension is not evidence that the generator delivered it.
 
-Treat the generated art and references as unlicensed until the repository's art-licensing decision is recorded. This handoff does not publish or deploy the images, change the design canon, implement the home page, or close the roadmap record.
+The generated art and references are Kris Brown's, all rights reserved ([GDR-KI-DESIGN-039](../decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md), recorded 26 November 2026). This handoff does not publish or deploy the images, change the design canon, implement the home page, or close the roadmap record.
 
 ## Second round reviewed: original kept (18 October 2026)
 

@@ -7,13 +7,12 @@ purpose: capability
 component: art
 size: s
 assignee: owner
-horizon: now
-status: draft
+status: done
 blocks: []
 blocked_by: []
 baseline_ref: null
 created_at: 2026-10-18T03:35:00Z
-updated_at: 2026-11-23T03:30:00Z
+updated_at: 2026-11-26T01:25:03Z
 ---
 
 # Art-licensing decision
@@ -32,16 +31,16 @@ A decision record only.
 
 ## Current state
 
-Not started. The code and documentation are MIT-licensed; the reference images and generated art carry no recorded licence.
+Done. [GDR-KI-DESIGN-039](../decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md) records Kris Brown's decision of 26 November 2026: the reference images and generated art are his, as part of Knowledge Islands, all rights reserved and outside the MIT licence that covers the code and documentation. It records the generator the art notes name and OpenAI's published output terms, and the style references left for review. The README, the briefs and the other documents that said "unlicensed" now follow it.
 
 ## Steps
 
-- [ ] Record ownership, generator terms and the style-reference risk as a Decision Record in `docs/decisions/`.
-- [ ] Update the README licence section and the briefs' unlicensed notes to match.
+- [x] Record ownership, generator terms and the style-reference risk as a Decision Record in `docs/decisions/`.
+- [x] Update the README licence section and the briefs' unlicensed notes to match.
 
 ## Files touched
 
-`docs/decisions/`, `README.md`, `docs/briefs/README.md`, `AGENTS.md`
+`docs/decisions/`, `README.md`, `docs/briefs/`, `docs/spec/`, `docs/OPEN.md`, `DESIGN.md`, `AGENTS.md`
 
 ## Verify
 
@@ -68,6 +67,10 @@ No guide change: the developer guide already covers running the checks and previ
 ### Roadmap
 
 Unblocks the Ancient tile set idea when it returns to the roadmap.
+
+## Done
+
+Decided 26 November 2026 by Kris Brown, in chat with Kitteth; recorded by Kitteth the same day as [GDR-KI-DESIGN-039](../decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md). Retained, not pruned.
 
 ## Discussion
 

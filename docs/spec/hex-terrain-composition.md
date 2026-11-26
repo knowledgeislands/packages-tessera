@@ -203,7 +203,7 @@ Before changing a production schema, demonstrate all of the following with hex-o
 6. An Arcadia-derived patch beside newly painted material, with consistent light, scale and edge treatment.
 7. Terrain and crossings that remain identical when divided into different render chunks, with deterministic ownership and acceptable rendering cost.
 
-The pilot must make the limitations visible. Archive original art separately from repaired derivatives and record source, prompt where applicable, transformation, dimensions, anchors and deviations. Art remains unlicensed under [GDR-KI-DESIGN-035](../decisions/GDR-KI-DESIGN-035-art-is-unlicensed-until-its-licensing-is-recorded.md).
+The pilot must make the limitations visible. Archive original art separately from repaired derivatives and record source, prompt where applicable, transformation, dimensions, anchors and deviations. The art is Kris Brown's, all rights reserved, under [GDR-KI-DESIGN-039](../decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md).
 
 ## Knowledge and review routes
 
