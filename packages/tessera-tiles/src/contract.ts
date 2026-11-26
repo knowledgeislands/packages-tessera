@@ -20,7 +20,7 @@ export type TileState = (typeof tileStates)[number]
 export const tileScales = [1, 2] as const
 export type TileScale = (typeof tileScales)[number]
 
-/** Rotation in sixths of a turn, clockwise from east-facing. */
+/** Rotation in sixths of a turn, in the hex map's neighbour order: 0 is east, then anticlockwise (E, NE, NW, W, SW, SE). */
 export type Orientation = 0 | 1 | 2 | 3 | 4 | 5
 
 export const tileStatuses = ['planned', 'draft', 'final'] as const
