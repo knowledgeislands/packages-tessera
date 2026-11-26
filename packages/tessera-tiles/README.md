@@ -7,7 +7,7 @@ The tile-set contract: what a set of isometric tiles must contain for the maps t
 - **Modern** (`sets/modern/`): clean, engraved and flat; the default for the apps. v0 is drawn as SVG for every required tile (status `draft`): 12 terrains, 16 structures in the thriving state, 4 decals and 4 connectors. `scripts/generate-modern.ts` writes the SVGs and the manifest's `art` entries from parametric shapes; `contact-sheet.png` shows every tile, and `arcadia-iso.png` is Arcadia rendered with them by `scripts/render-iso.ts`.
 - **Ancient** (planned): painterly and legendary, in the spirit of the Aesthetics pillar and mood boards; the default for the site.
 
-Generated art is treated as unlicensed until the art-licensing decision is recorded.
+The art in the sets is Kris Brown's, as part of Knowledge Islands: all rights reserved, outside the repository's MIT licence, and reused only with his permission ([GDR-KI-DESIGN-039](../../docs/decisions/GDR-KI-DESIGN-039-the-art-is-kris-brown-s-and-reuse-is-by-his-permission.md)). Each manifest says so with `"licence": "LicenseRef-KI-All-Rights-Reserved"`, an SPDX `LicenseRef-` identifier for terms SPDX does not list.
 
 ### Modern v0 notes
 

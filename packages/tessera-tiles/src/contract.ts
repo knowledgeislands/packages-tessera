@@ -96,6 +96,7 @@ export interface TileManifest {
   readonly id: string
   readonly name: string
   readonly description?: string
+  /** The set's licence: an SPDX expression, or a `LicenseRef-` reference for terms SPDX does not list, such as `LicenseRef-KI-All-Rights-Reserved`. */
   readonly licence?: string
   /** The island palette the set's art is painted in; tiles may override it. */
   readonly palette?: IslandPalette
